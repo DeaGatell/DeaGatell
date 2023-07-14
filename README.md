@@ -8,17 +8,25 @@
 - 🔮 My interests also include languages, art, culture, music, food, and travel.
 - 🌱 I’m currently working with JavaScript, Node.js, HTML, CSS... and learning Italian!
 - 💞️ I’m looking to collaborate on any project that will allow me to learn, write & connect.
-- 📫 Reach me through email at deagatell6@gmail.com or LinkedIn 👇🏼 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/andreagatell/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
-  </a>
-</div>
 
 ###
 ---
+<div align="center" align-items="center">
+
+  📫 How to reach me:
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/andreagatell/">
+    <img align="center" alt="Andrea Gatell | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:deagatell6@gmail.com">
+    <img align="center" alt="Andrea Gatell | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  <br> 
+
+###
+---
+
 <h3 align="left">✨ My Stats :</h3>
 <div align="center">
   <img align="right" width="400px" src="https://github.com/DeaGatell/DeaGatell/assets/127211939/afed9e84-2a23-4991-85e3-2c4ca1758649" />
