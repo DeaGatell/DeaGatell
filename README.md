@@ -6,7 +6,7 @@
   
 - 👀 I’m interested in learning as much as I can about coding and technology. 
 - 🔮 My interests also include languages, art, culture, music, food, and travel.
-- 🌱 I’m currently working with JavaScript, Node.js, HTML, CSS... and learning Italian!
+- 🌱 I’m currently working with JavaScript, Node.js, HTML, CSS. React... and learning Italian!
 - 💞️ I’m looking to collaborate on any project that will allow me to learn, write & connect.
 
 ###
