@@ -29,7 +29,7 @@
 
 <h3 align="left">✨ My Stats :</h3>
 <div align="center">
-  <img align="right" width="400px" src="https://github.com/DeaGatell/DeaGatell/assets/127211939/afed9e84-2a23-4991-85e3-2c4ca1758649" />
+  <img align="right" width="300px" src="https://github.com/DeaGatell/DeaGatell/assets/127211939/afed9e84-2a23-4991-85e3-2c4ca1758649" />
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=DeaGatell&theme=cobalt&rank_icon=github&show_icons=true"/>
 <br/>
 <br/>
