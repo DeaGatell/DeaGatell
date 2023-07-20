@@ -1,6 +1,6 @@
 <div align="center" align-items="center">
   
-  ### ✨Hi, I'm Andrea Gatell (@DeaGatell)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=F70E7D&center=true&width=435&lines=%E2%9C%A8Hi%2C+I'm+Andrea+Gatell+(%40DeaGatell)%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <div align= "left" align-items="start">
   
