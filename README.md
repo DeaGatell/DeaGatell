@@ -53,77 +53,40 @@
 <h3 align="left">✨ Tools & Languages</h3>
 
 <div align="left">
-  <p align="left">
 
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="36" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="36" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="36" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="36" alt="CSS3" />
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://github.com/DeaGatell/DeaGatell/assets/127211939/67264339-5ede-4fb0-8010-f43d5e45cfc7" height="36" alt="React" />
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="36" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="36" alt="Next.js" />
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="36" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" height="36" alt="Vite" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="36" alt="NodeJS" />
 
-  <!-- Databases & Backend -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-  </a>
+<!-- Backend -->
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="36" alt="Firebase" />
+<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" height="36" alt="Supabase" />
 
-  <!-- Dev Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" alt="Jest" />
-  <a href="https://github.com/DeaGatell/DeaGatell/assets/127211939/94af3989-f0ea-4873-b2d7-fbcd5235f8a2">
-    <img src="https://github.com/DeaGatell/DeaGatell/assets/127211939/94af3989-f0ea-4873-b2d7-fbcd5235f8a2" width="36" height="36" alt="npm" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
+<!-- Dev Tools -->
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="36" alt="Git" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="36" alt="Figma" />
+<img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" height="36" alt="Jest" />
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" height="36" alt="npm" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="36" alt="Postman" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="36" alt="Docker" />
 
-  <!-- AI & Automation -->
-  <img src="https://img.icons8.com/color/36/notion--v1.png" width="36" height="36" alt="Notion" />
-  <a href="https://zapier.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="36" height="36" alt="Zapier" style="background:#FF4A00; border-radius:6px; padding:4px;" />
-  </a>
-  <a href="https://www.make.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/make.svg" width="36" height="36" alt="Make" style="background:#6D00CC; border-radius:6px; padding:4px;" />
-  </a>
-  <a href="https://n8n.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/n8n.svg" width="36" height="36" alt="n8n" style="background:#EA4B71; border-radius:6px; padding:4px;" />
-  </a>
-  <a href="https://claude.ai/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/anthropic.svg" width="36" height="36" alt="Claude" style="background:#D97757; border-radius:6px; padding:4px;" />
-  </a>
+<!-- AI & Automation -->
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" height="36" alt="Notion" />
+<img src="https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" height="36" alt="Zapier" />
+<img src="https://img.shields.io/badge/-Make-6D00CC?style=flat&logo=make&logoColor=white" height="36" alt="Make" />
+<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="36" alt="n8n" />
+<img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="36" alt="Claude" />
+
+</div>
 
   </p>
 </div>
